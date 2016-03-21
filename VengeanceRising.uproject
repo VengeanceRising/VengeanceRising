@@ -7,10 +7,6 @@
 		{
 			"Name": "LeapMotionController",
 			"Enabled": false
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true
 		}
 	]
 }
