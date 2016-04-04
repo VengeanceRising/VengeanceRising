@@ -1,5 +1,173 @@
+Models and meshes:
 TheLibrary
 {
 	Free Environment: OLD Library
 	https://forums.unrealengine.com/showthread.php?76792-Free-Environment-OLD-Library
 }
+
+Wheelchair
+{
+	https://sketchfab.com/matousejem
+}
+
+Medieval Light Assets
+{
+	Funnynel42 on Unreal Engine Forum
+	https://forums.unrealengine.com/showthread.php?65910
+}
+
+Chairs
+{
+
+}
+
+Wooden table
+{
+
+}
+
+Jewelry Key
+{
+	www.turbosquid.com/Search/Artists/kisspedraum
+}
+
+Tissue box
+{
+	http://www.turbosquid.com/Search/Artists/kingnin27
+}
+
+Plate
+{
+	http://www.turbosquid.com/Search/Artists/Kuroto
+}
+
+Orange
+{
+	http://www.turbosquid.com/Search/Artists/Stefan-Schindler
+}
+
+Cherries
+{
+	http://www.turbosquid.com/Search/Artists/browntimmy
+}
+
+Banana
+{
+	http://www.turbosquid.com/Search/Artists/dajver
+}
+
+Fireplace
+{
+	http://www.turbosquid.com/Search/Artists/vasilios2005
+}
+
+Wooden panel
+{
+	http://www.turbosquid.com/Search/Artists/Etwin
+}
+
+Small doors
+{
+	http://www.turbosquid.com/Search/Artists/AlirezaSadeghi
+}
+
+Big door
+{
+	http://www.turbosquid.com/Search/Artists/mamoonchic
+}
+
+Big carpet
+{
+	http://www.turbosquid.com/Search/Artists/elenfil
+}
+
+Big paintings
+{
+	http://www.turbosquid.com/Search/Artists/pumpkinhead3d
+}
+
+Plant
+{
+	http://www.turbosquid.com/Search/Artists/mikahoo
+}
+
+Worn Key
+{
+	https://www.cgtrader.com/davereeves363
+}
+
+Kitchen knife
+{
+	http://www.turbosquid.com/Search/Artists/Diegobuechi
+}
+
+Spanner
+{
+	http://www.turbosquid.com/Search/Artists/Fear1ess
+}
+
+Wooden crate
+{
+	http://www.turbosquid.com/Search/Artists/AlpArt
+}
+
+Wooden box
+{
+	http://www.turbosquid.com/Search/Artists/Rakshi-Games
+}
+
+Storage room shelf
+{
+	http://www.turbosquid.com/Search/Artists/Rainbowvfx
+}
+
+Broom
+{
+
+}
+
+Safe
+{
+	https://sketchfab.com/thelowestanimal
+}
+
+
+Characters and Animations:
+{
+	Mixamo Fuse
+	https://www.mixamo.com/fuse
+}
+
+
+Sound Assets:
+Harp Songs
+{
+	Hannah Bischoff
+	https://www.youtube.com/channel/UCNmMFjsZ2GmGCSwyoVLUPzQ
+}
+
+Rain Sound
+{
+	https://www.freesound.org/people/crosbychris/
+}
+
+Lock and unlock
+{
+	https://www.freesound.org/people/fuzzpapi/
+}
+
+Door squeak
+{
+	https://www.freesound.org/people/InspectorJ/
+}
+
+Crashing chairs
+{
+	https://www.freesound.org/people/victoriarey91/
+}
+
+Stones moving
+{
+	https://www.freesound.org/people/ertfelda/
+}
+
