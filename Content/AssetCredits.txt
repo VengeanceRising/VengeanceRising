@@ -16,16 +16,6 @@ Medieval Light Assets
 	https://forums.unrealengine.com/showthread.php?65910
 }
 
-Chairs
-{
-
-}
-
-Wooden table
-{
-
-}
-
 Jewelry Key
 {
 	www.turbosquid.com/Search/Artists/kisspedraum
@@ -121,11 +111,6 @@ Storage room shelf
 	http://www.turbosquid.com/Search/Artists/Rainbowvfx
 }
 
-Broom
-{
-
-}
-
 Safe
 {
 	https://sketchfab.com/thelowestanimal
@@ -150,6 +135,12 @@ Rain Sound
 {
 	https://www.freesound.org/people/crosbychris/
 }
+
+Typewriter
+{
+	https://www.freesound.org/people/pakasit21/
+}
+
 
 Lock and unlock
 {
