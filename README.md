@@ -48,10 +48,10 @@ Safe (https://sketchfab.com/thelowestanimal)<br/><br/>
 
 
 `Mixamo Fuse`<br/>
-Characters and Animations (https://www.mixamo.com/fuse)<br/>
+Characters and Animations (https://www.mixamo.com/fuse)<br/><br/>
 
 
-Sound Assets:<br/><br/>
+Sound Assets:<br/>
 
 `Hannah Bischoff`<br/>
 Harp Songs (https://www.youtube.com/channel/UCNmMFjsZ2GmGCSwyoVLUPzQ)<br/>
