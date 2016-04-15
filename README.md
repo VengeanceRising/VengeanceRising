@@ -45,7 +45,8 @@ Wooden crate (http://www.turbosquid.com/Search/Artists/AlpArt)<br/>
 Wooden box (http://www.turbosquid.com/Search/Artists/Rakshi-Games)<br/>
 Storage room shelf (http://www.turbosquid.com/Search/Artists/Rainbowvfx)<br/>
 Safe (https://sketchfab.com/thelowestanimal)<br/><br/>
-
+2 Gears (http://www.turbosquid.com/Search/Artists/NRG_3D)<br/><br/>
+Hourglass (http://www.turbosquid.com/Search/Artists/bgnalm)<br/><br/>
 
 `Mixamo Fuse`<br/>
 Characters and Animations (https://www.mixamo.com/fuse)<br/><br/>
@@ -62,4 +63,4 @@ Lock and unlock (https://www.freesound.org/people/fuzzpapi/)<br/>
 Door squeak (https://www.freesound.org/people/InspectorJ/)<br/>
 Crashing chairs (https://www.freesound.org/people/victoriarey91/)<br/>
 Stones moving (https://www.freesound.org/people/ertfelda/)<br/><br/>
-
+Music: "In Doubt" http://www.purple-planet.com/
